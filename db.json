@@ -1,0 +1,11 @@
+{
+ "heroes": [
+  {id:1, name: 'Nata'},
+  {id:2, name: 'Baka'},
+  {id:3, name: 'Feli'},
+  {id:4, name: 'Agatha'},
+  {id:5, name: 'Aurora'},
+  {id:6, name: 'Cia'},
+  {id:7, name: 'Rony'}
+]
+}
